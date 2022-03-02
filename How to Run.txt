@@ -1,0 +1,3 @@
+STEP 01) Pull the repo to get updated files
+STEP 02) run "npm install" command in main directory to install required modules
+STEP 03) run "npm start" command in main directory to start the server. The web page will be loaded in browser.
